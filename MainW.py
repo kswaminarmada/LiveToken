@@ -217,3 +217,8 @@ if __name__ == '__main__':
     ui.setupUi()
     ui.show()
     sys.exit(app.exec_())
+
+
+    '''
+    
+    '''
